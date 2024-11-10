@@ -1,0 +1,10 @@
+torch==2.3.0 -f https://download.pytorch.org/whl/torch_stable.html
+streamlit
+fitz
+pillow
+langchain
+langchain_core
+langchain_community
+Spacy
+transformers
+pytesseract
