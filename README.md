@@ -7,12 +7,14 @@
 
 ## 1. **What have been done in this project?**
 Build a websites that allows
-- uploading pdf files (even scanned files).
-- returning information corresponding to questions from users.
+- Uploading pdf files (even scanned files).
+- Returning information corresponding to questions from users.
+
+For more comprehensive explaination, please check `Multi_PDF_RAG.ipynb` file.
 
 ## 2. **Demo**
 
-<img src='PDF_chat_demo.gif' width=500>
+https://github.com/user-attachments/assets/e8e125ac-d157-4dd4-8e81-1d3394769093
 
 - The user will upload files at the side bar, then click `Submit & Process`.
 - The user can type some questions at the input cell and press `Enter`, then the website will return the corresponding information.
